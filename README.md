@@ -1,2 +1,3 @@
-# std-055-sb-sc-firmware-release
-Firmware déclencheur manuel SmartVOX®SC et boîte à boutons SmartVOX®SB
+# SmartVOX® SB/SC firmware release
+
+WEB site : <https://smartvox.fr/>
